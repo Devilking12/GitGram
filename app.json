@@ -1,14 +1,14 @@
 {
-    "name": "GitGram",
+    "name": "ᴿᵒʸᵃᴵ᭄༒ᶠᵃᵐⁱˡʸ࿐",
     "description": "GitHub and GitLab Integration for Telegram Bot API",
     "logo": "",
     "keywords": [
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
-    "website": "https://github.com/pokurt/GitGram",
-    "success_url": "https://t.me/GitGramChat",
+    "repository": "https://github.com/Devilking12/GitGram",
+    "website": "https://github.com/Devilking12/GitGram",
+    "success_url": "https://t.me/About_Devil_XD",
     "stack": "container",
     "env": {
         "ENV": {
