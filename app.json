@@ -21,7 +21,7 @@
         },
         "PROJECT_NAME": {
             "description": "Project of what you desire",
-            "value": ""
+            "value": "Royalfamilybot"
         },
         "APP_URL": {
             "description": "Heroku app url, example: https://appname.herokuapp.com",
